@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cfarrell987
 - 👀 I’m interested in Automation, Machine Learning
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Rust
 - 📫 How to reach me info@valhallahosting.ca
 
 <!---
