@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cfarrell987
 - 👀 I’m interested in Automation of the Redundant!
-- 🌱 I’m currently learning Python, more specifically working with data with pandas!
+- 🌱 I’m currently learning Python, and AWS Cloud Administration
 - 📫 How to reach me info@valhallahosting.ca
 
 <!---
