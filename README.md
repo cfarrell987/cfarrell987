@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @cfarrell987
-- 🌐 View my profile https://profile.valhallahosting.ca
-- 👀 I’m interested in Automation of the Redundant!
-- 🌱 I’m currently learning Python, Terraform, and AWS Cloud Administration
-- 📫 How to reach me info@valhallahosting.ca
+- 🌐 View my profile https://profile.cfarrell.dev
+- 🌱 I’m currently learning Python, Terraform, and Kubernetes
+- 📫 How to reach me me@cfarrell.dev
 
 
 <!---
